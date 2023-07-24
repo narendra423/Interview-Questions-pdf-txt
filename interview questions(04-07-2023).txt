@@ -1,0 +1,26 @@
+Introduce your self
+
+what is indexing in sql 
+difference between inner join and left join
+in which area or what place are you worked in sql 
+what is normalization in SQL
+
+have you worked in unit testing
+what is @Mock
+how you worked in unit testing
+
+what is @RestCOntroller
+is possible multiple inheritance in java
+difference between abstract and interface
+what is static keyword in java
+what is @RequestBody,RequestParam,Path variable
+what is profile in java
+if a performance issue is in application what you do to troubleshoot that thing
+
+What is component
+What are different ways of binding
+what steps you followed to create a page
+
+have you worked in any CI/CD tools 
+have you worked in any agile methedology tools
+what's your role in rally

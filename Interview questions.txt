@@ -1,0 +1,14 @@
+Interviewr: Kandha
+
+1. Tell me about your project description
+2. What did you done in your project 
+3. what are the collections
+4. what is the difference between list and set
+5. did you used streams in your project 
+5. which streams you used in your project 
+5. heard you about spring reactive programming
+6. heard you about graphql 
+7. which tools you used in project.
+8. Did you know anything about clouds.
+9. heard you about non relational database
+10. which database is used in your project.

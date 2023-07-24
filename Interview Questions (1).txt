@@ -1,0 +1,28 @@
+Interviewers panel : murgesa babu,mohammed sherieff
+
+1.Tell me about youself along with your project?
+2.Do you know anything about Ford? 
+3.What is functional interface?
+4.Can we override all the methods in functional interface?
+5.What is lambda expressions?
+6.What is the difference between Collections and Streams?
+7.Filter a list of employee objects based on age > 25 ?
+8.What is MVC?
+9.What are the annotations you came across in your project?
+10.Describe the flow of POST method in the backend?
+11.What are query parameters,path parameters?
+12.How will you check your code quality?
+13.How do you test your java application?
+14.What is JSON?
+15.How did you connect front end to backend?
+16.What is data binding?
+17.What is authguard and how did you implement it?
+18.What are the user interfaces you build?
+19.How did you push your code to github?
+20.After pushing your code into git,who will checkout your code?
+21.How did you connect your database to your application?
+22.Did you connect mutltiple databases in any one of your projects?
+23.What is user profiling?
+24.Where did you deploy your project? (Server or Cloud)
+25.If there is any bug/error in your project after deployment,who will let you know about that  bug/error?
+26.Give me a brief description about deployment in Jenkins?

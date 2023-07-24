@@ -1,0 +1,177 @@
+Saikrishna :
+
+1. Introduce yourself with all the technologies you have used (versions included)
+2.(Rate yourself in angular)
+3. What is the most complex thing you did in angular /where do you face difficulty while working in angular
+4. Forms in angular
+5. Scenario where you are using Reactive forms and you need to create now employee in database total flow of client server communication (note pad)
+6. Form builder
+7. Observable vs promise 
+8. Where do you use observables (note pad)
+9. Subjects and what are all the subjects you used and their usage scenario
+10. Async and behavioral subject difference
+11. What are pipes where do we use them and how to make custom one and a scenario where i used one
+12. wWhat are directives where do we use them and how to make custom one and a scenario where i used one
+13. Class , style binding and What is interpolation
+14. Parent child communication(note pad)
+15. Componet communication
+16. Dependency injection and services in angular
+17. Write code to a reactive form (ts,html)
+(Rate yourself in java)
+18. What is JIT and AOT?
+19. String buffer, string builder, string difference
+20. Tell me some string methods
+21. Difference between string literal and string object
+22. Tell me about Collections framework
+23. Declare a map (note pad)
+24. There is an array of numbers write a method to determine Permutations and combinations of that array
+25. No of occurences of a all the digits in an array of numbers(using streams and not declaring separate variable)
+26. (Rate yourself in Spring boot)
+27. Tell me some of the annotations in spring boot
+28. Can we have separate configuration file
+29. Dependency injection in spring boot
+30. What is hashcode in java
+31. Comparing two objects in java
+32. Comparable and compare to
+33. Do we have to override hash code for every entity to be able to compare them?
+34.what is peek , flat map in difference
+35.what is internal function map,list,set,arraylist,hashmap,hashtable
+36.swap two strings without using third variable(write in note pad)
+37.what is difference between while loop and for loop
+38. what is difference between collection and collections
+39.what is the grouping by method in collections
+40. what is internal function in @springbootapplication
+41.what is difference between @configuration and @component
+42.how beans are created in springboot
+43.what is use of @autowired
+44.what is IOC
+45.how you configure database in spring boot?
+46.have work with Gradle
+47. you different profiles in spring boot how to active or run with  particular profile
+48.what is @Entity
+49.what are is stereotype annotations in spring boot
+50. reverse a string with using while loop
+51.what is method reference
+52. write the code to convert date to string and string to date using simple date formatter
+53.From employee list takeout the names and group by the age like below 30 , below 40 using java 8 streams (note pad)
+54.what is https request
+55. in spring boot how you configure https?
+56.what are all method available interceptor in spring boot?
+57. explain me about status code
+58.what is a exception class
+59.write a own exception class
+60. what is the use of try catch block
+
+Veereshamma: 
+Tell me about yourself
+what java 8 features
+what is the method reference
+how can we call the static method using method reference
+what is serialization?
+streams in serialization and Java 8 Stream API are both the same
+what is final, finally, finalize
+ If an exception is raised finally block will be executed or not.
+shall we make the interface as final?
+explain to me the memory in java
+ explain to me about multi-threading 
+what is spring batch
+what is a singleton and prototype
+any other scopes are there
+what is an inversion of control
+how ioc will work internally in the application
+what is a collection
+did you work on javascript
+what are ES6 features
+how can we create a class in javascript
+what is async and await  ( javascript )
+what is arrow function ( javascript )
+what is let, const, var
+did you mySql
+what is the difference between joins and subquery
+Explain me the scenarios where joins will be used and where subquery can we use
+
+Vamsi :
+1. Self Introduction
+
+2. what are java 8 features ?
+
+3. what are the differences between collections and Streams ?
+
+4. what are intermediate operators ? Give some examples ?
+
+5. what is a lambda expression ?
+
+6. what is an optional class ?
+
+7. what is the difference between @Controller and @RestController  ?
+
+8.what is @RequestMapping annotation do ?
+
+9. what is the difference between @GetMapping and @PostMapping ?
+
+10. How will you execute the test cases and what are the standards you followed ?
+
+11. How will you test repository layer ?
+
+12. How will you test Rest endpoints ?
+
+13. What do you know about TDD ?
+
+14. How will you provide your Rest API’s to client  and How he will access that API’s ?
+
+15. Do you have any work experience on Pair Programming ? Explain about pair programming ?
+
+Sudheer :
+
+1.       Self-introduction
+
+2.       What is static and final keywords. What is the use of them
+
+3.       What is dependency injection
+
+4.       Difference between linked List and Array List
+
+5.       If we give final keyword to  list, can we modify the list
+
+6.       Stater dependencies in spring
+
+7.       What is Auto configuration
+
+8.        What is controller and Rest controller, difference between them
+
+9.       Java 8 features
+
+10.   What are streams
+
+11.   Write code using streams for print the employee name who’s salary is greater than 10000 in the employee list
+
+12.   Write a query to get 2nd highest salary of an employee
+
+13.   Where you mention the properties of your application
+
+14.   How you configure your database in configuration file
+
+15.   Angular 8 features
+
+16.   Updated version of angular
+
+17.   What is micro service and how to use
+
+18.   What is lambda expression
+
+--------------------------------------------------------
+mail from SK Sir :
+Hi,
+
+Find below the JD for Fleet Bid Management System. Prepare well for the interview.
+
+JD Full stack Engineer :
+
+Bachelor’s degree in computer engineering or computer science.
+3+ Years of experience in Java and Spring boot Framework
+1+ years of experience in any Java Script framework
+Good Knowledge on design patterns
+Experience in writing unit test cases. Understands the usage of mocking / faking unit testing frameworks
+Knowledge of relational and non-relational databases.
+Awareness of TDD and Pair programming
+----------------------------------------------------------

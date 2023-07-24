@@ -1,0 +1,25 @@
+Interviewers:
+- Issac
+- Ramesh
+
+1.  Tell me about yourslef  and explain the projects you have worked on?
+2.  If you're storing user credentials in local database there is  flaw in this. What is it?
+3. How do you connect frontend with backend?
+4. In JPA how do you generate composite primary key?
+5. what annotation did you use for Primary Key?
+6. you said you've worked in MySQL , are you famililar with store in database?
+7. did you work on any methods in spring secrurity?
+8. What security did you use while connecting frontend with backend using crossOrigin?
+9. You said you're worked in storing file, so what datatype did you use in the database for that?
+10. how do you say the connection between two microservices is secure ? (or) 
+      how one microservice knows that the request from other microservice is secure call?
+11. Have you worked on testing before?
+12. Did you worked on cloud services before?
+13. How do you do exception handling and convey the message to the user in frontend?
+
+
+
+
+
+
+

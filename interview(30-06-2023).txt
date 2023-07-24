@@ -1,0 +1,14 @@
+Tel me about your self, projects, your role in project
+if user send same values in form contineously we can restrict that form
+what annotations you used in spring boot 
+Difference between @RequestMapping and @GetMapping
+GCP Vm instances 
+GCP Batch jobs
+Git hub
+Jenkins pipeline
+have you worked with rally 
+how we can deploy an appplication
+triggers in database sql 
+queries in sql 
+difference between varchar and varchar true
+what is automation in your project

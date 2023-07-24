@@ -1,0 +1,21 @@
+1. Introduce yourself with technologies you know and what are the technologies you have used.
+2. directives
+3. components
+4. observable and promise
+5. communication between components
+6. how you will validate a service (AuthGuard)
+7. anuglar material
+8. routes
+9. Have you used angular CLI
+9. features of java 8
+10. interface and functional interface
+11. stream API (scenario questions)
+12. collections
+13. Map (scenario question) -> convert list to map using stream
+14. why collection is framework
+15. which version of springboot is used
+16. springboot annotations
+17. What is the use of @EnableAutoConfiguration
+18. how to exclude a bean in springboot
+19. To application what are the tools you have used. (Jenkins)
+20. how you deployed your application using the tool (Jenkins)

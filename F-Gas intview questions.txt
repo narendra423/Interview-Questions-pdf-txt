@@ -1,0 +1,45 @@
+1)what technologies you have worked on
+2)versions you have worked on
+you experience in angular and java
+3)forms you have used 
+4)what is form group
+5)what is for control
+5)difference between @viewchild and @viewchildern
+6)difference between subject, behaviour subject
+7)different Rxjs methods you have used
+8)how do you connect backend and front end
+9)you have multiple springboot applications running how you mention which one to access in front end
+10)have you worked on guards
+11)map vs tap rxjs methods
+12)what are pipes
+13)custom pipes you have used
+14)interceptors
+Advantages or reactive forms
+what are structural directives
+example for ngFor and explain 
+how you mention port in properties in java
+what is profiling and why we use it
+how you use profiles
+how you use a property value mentioned in application properties
+@EnableAutoConfiguration
+@configuartion Vs @component
+iterator vs iterator list
+exception handling and how you used it
+have you worked on Hiberrnate or JPA
+what are streams
+case you have a list of students, convert to map using streams
+string methods you have used
+arraylist vs Linked List
+you have a list of employees you need to perform operations on , which list you declare employee with and why
+what is TDD
+have you written test cases
+what is transactional
+have you worked on transactional cases
+how you deployed your code on GCP
+tasks in tekton
+how to setup git build in yaml
+how you get image from artifact registry and deploy in cloud run
+different properties you metioned in terraform code
+have you worked on schedulers
+
+
